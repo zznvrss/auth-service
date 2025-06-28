@@ -1,4 +1,8 @@
 flask
+<<<<<<< HEAD
 psycopg2-binary
 bcrypt
 python-dotenv
+=======
+bcrypt
+>>>>>>> 551439c8632ead7136322fba4013d3bbe0edb8ae
